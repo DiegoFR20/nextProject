@@ -7,4 +7,4 @@ Lista projetos de um usuário do github. Não há muita coisa, serve apenas para
 ## Recomendável o uso de Insomnia ou Postman
 
 ## Como iniciar
-Rode um comando 'npm install', em seguida 'npm run dev'
+Rode um comando 'npm install', 'npm run build', em seguida 'npm run dev'

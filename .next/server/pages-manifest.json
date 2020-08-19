@@ -1,8 +1,8 @@
 {
+  "/blog": "pages/blog.html",
+  "/": "pages/index.js",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
-  "/": "pages/index.js",
-  "/blog": "pages/blog.js"
+  "/404": "pages/404.html"
 }
